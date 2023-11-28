@@ -73,7 +73,9 @@ The E-commerce Sales Dashboard project utilizes the following data sources:
 
 ### Monthly Profit Trends
 
-_Insert screenshots of line graphs depicting monthly profit trends._
+![Profit by months](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/634ca4d3-9f45-4010-9ad0-e4310a3615df)
+
+
 
 ### Total Sales and Profit
 
