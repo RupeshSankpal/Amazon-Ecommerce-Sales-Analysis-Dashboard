@@ -21,7 +21,7 @@ Welcome to the E-commerce Sales Dashboard Documentation. This Power BI dashboard
 
 The purpose of this E-commerce Sales Dashboard is to:
 
-- **Visualize Sales Performance:** Display key metrics, including total sales, total profit, and profit by countries.
+- **Visualize Sales Performance:** Display key metrics, including total sales, total profit, and profit by country.
 - **Analyze Monthly Trends:** Utilize line graphs to showcase profit trends on a monthly basis over the four-year period.
 - **Geographical Analysis:** Provide insights into sales and profit distribution across different countries.
 - **Category-wise Performance:** Visualize the performance of product categories through dynamic charts.
@@ -47,7 +47,7 @@ The following technologies were used to build this project:
 
 To get started with this dashboard, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ecommerce-sales-dashboard.git`
+1. Clone the repository: `git clone https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard.git`
 2. Install Power BI Desktop: [Download Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 3. Open the project file in Power BI Desktop.
 4. Explore the data models and visualizations.
