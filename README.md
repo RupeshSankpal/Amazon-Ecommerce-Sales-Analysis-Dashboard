@@ -71,20 +71,5 @@ The E-commerce Sales Dashboard project utilizes the following data sources:
 
 ## Visualizations
 
-### Monthly Profit Trends
-
-![Profit by months](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/634ca4d3-9f45-4010-9ad0-e4310a3615df)
-
-
-
-### Total Sales and Profit
-
-_Insert screenshots of dynamic cards displaying total sales and profit._
-
-### Geographical Analysis
-
-_Insert screenshots of the map visualizing sales and profit distribution._
-
-### Category-wise Performance
-
-_Insert screenshots of charts showcasing the performance of product categories._
+### Screenshot of the Dashboard
+![dasb](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/d59f7111-b953-404e-98ae-8a4ba5369bdb)
