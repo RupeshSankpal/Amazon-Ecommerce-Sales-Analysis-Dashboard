@@ -73,10 +73,12 @@ The E-commerce Sales Dashboard project utilizes the following data sources:
 
 ### Screenshot of the Dashboard
 
-![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/ed421ec6-3800-4e93-b470-d2f9bbd7deb9)
+![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/5fca6633-243c-49fe-ae5d-6dcc1112b644)
 
 
-![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/82273c0b-7dd7-4408-abea-761aa393e540)
+
+![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/75f32541-1e82-4c8e-a2fb-734e467c0d96)
+
 
 
 
