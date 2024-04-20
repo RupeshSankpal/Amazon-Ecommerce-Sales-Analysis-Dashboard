@@ -1,5 +1,5 @@
 
-# E-commerce Sales Dashboard Documentation
+# Amazon's Sales Dashboard Documentation
 
 ## Table of Contents
 
@@ -77,7 +77,7 @@ The E-commerce Sales Dashboard project utilizes the following data sources:
 
 
 
-![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/5466d68c-b64b-46fa-be39-0179448d66f9)
+![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/4f538f5c-336b-4078-b736-c426b5ec3720)
 
 
 
