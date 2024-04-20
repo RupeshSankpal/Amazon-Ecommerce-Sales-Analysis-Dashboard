@@ -56,7 +56,7 @@ To get started with this dashboard, follow these steps:
 
 The E-commerce Sales Dashboard offers a comprehensive overview of sales and profit metrics, allowing users to quickly grasp key insights. The main components of the dashboard include:
 
-- **Monthly Profit Trends:** Line graphs depicting profit variations on a monthly basis.
+- **Monthly Profit Trends:** Line graphs depicting profit variations monthly.
 - **Total Sales and Profit:** Dynamic cards displaying the cumulative total sales and total profit.
 - **Geographical Analysis:** A map visualizing sales and profit distribution across different countries.
 - **Category-wise Performance:** Charts showcasing the performance of product categories.
@@ -73,11 +73,11 @@ The E-commerce Sales Dashboard project utilizes the following data sources:
 
 ### Screenshot of the Dashboard
 
-![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/81de6e8f-67a6-49fc-828e-e56aedd49d2b)
+![image](https://github.com/RupeshSankpal/Amazon-Ecommerce-Sales-Analysis-Dashboard/assets/129041496/17de711b-1e9b-4cf7-ad40-1c896abf4291)
 
 
 
-![image](https://github.com/RupeshSankpal/Ecommerce-Sales-Analysis-Dashboard/assets/129041496/4f538f5c-336b-4078-b736-c426b5ec3720)
+![image](https://github.com/RupeshSankpal/Amazon-Ecommerce-Sales-Analysis-Dashboard/assets/129041496/35051e93-9517-4817-8619-658f5ba60410)
 
 
 
